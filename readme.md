@@ -2,18 +2,34 @@
 
 
 
-# Topic-completed
+##### local server: npx live-server
+
+##### TS server: tsc --watch
+
+
+
+### Topic-completed
 
 
 
 1. Encapsulation
-2. Inheritance 
+2. Inheritance
 3. Inheritance continued
-4. 
+4. polymorphism
 
 
 
-npx live-server
+
+
+
+
+### practice needs:
+
+
+
+1. polymorphism
+
+
 
 
 
